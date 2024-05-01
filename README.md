@@ -46,7 +46,13 @@ Install / Enable IIS in Windows.
 </p>
 Download and Install PHP Manager from installation folder (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
+
 Download and Install Rewrite Module from installation folder
+(https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+
+Create directory for C:\PHP on local hard drive
+
+
 <br />
 
 
