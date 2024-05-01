@@ -37,6 +37,7 @@ To begin this tutorial create a virtual machine in Microsoft Azure.
 
 Install / Enable IIS in Windows.
 <p>
+
  - Right click the start menu
  - Click run and type control
  - Click Programs and select turn windows features on or off under Programs and Features
