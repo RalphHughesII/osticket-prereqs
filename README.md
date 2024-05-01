@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 
-To begin this tutorial create a virtual machine in Microsoft Azure.  
+<h2>To begin this tutorial create a virtual machine in Microsoft Azure.</h2>  
       - Create a Resource Group
       - Create a Windows 10 Virtual Machine using at least 2 virtual CPUs
       - Log into to the VM using windows remote desktop
