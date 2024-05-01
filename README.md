@@ -18,14 +18,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
 <h2>Installation Steps</h2>
 
 
@@ -52,9 +44,9 @@ Install / Enable IIS in Windows.
 
    <img src="https://i.imgur.com/PQUv2aK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Install PHP Manager for IIS
+Download and Install PHP Manager
 
--Download PHP Manager
+Download and Install Rewrite Module
 <br />
 
 
