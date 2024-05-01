@@ -54,7 +54,6 @@ Install / Enable IIS in Windows.
 </p>
 <br />
 Install PHP Manager for IIS
-
 -Download PHP Manager
 - 
 <p>
