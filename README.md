@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 
-To begin this tutorial
+To begin this tutorial I created a virtual machine in Microsoft Azure. I will be connecting to this machine via remote desktop to demonstrate installtion and configuration of osticket system.
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
