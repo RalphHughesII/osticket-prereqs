@@ -52,9 +52,12 @@ Install / Enable IIS in Windows.
 
    <img src="https://i.imgur.com/PQUv2aK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
 Install PHP Manager for IIS
+
 -Download PHP Manager
+<br />
+
+
 - 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
