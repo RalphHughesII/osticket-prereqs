@@ -50,7 +50,7 @@ Install / Enable IIS in Windows.
 
  - Collaspse this window and expand common HTTP Features.  Make sure everything is checked inside.
 
-   <img src="https://i.imgur.com/qoti6AN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   <img src="https://i.imgur.com/PQUv2aK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
