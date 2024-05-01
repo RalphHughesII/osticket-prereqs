@@ -29,10 +29,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 
-<h2>To begin this tutorial create a virtual machine in Microsoft Azure.</h2>  
-      - Create a Resource Group
-      - Create a Windows 10 Virtual Machine using at least 2 virtual CPUs
-      - Log into to the VM using windows remote desktop
+To begin this tutorial create a virtual machine in Microsoft Azure.  
+
+- Create a Resource Group
+ - Create a Windows 10 Virtual Machine using at least 2 virtual CPUs
+ - Log into to the VM using windows remote desktop
 <p>
 <img src=https://i.imgur.com/yJGeySn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
