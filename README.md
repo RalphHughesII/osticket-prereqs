@@ -70,6 +70,25 @@ Create directory for C:\PHP on local hard drive
 Download and install MySQL 5.5.62 from installation folder
 (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
+- Select typical installation 
+-  After installation select stadard configuration andinstall as Windows Service
+-  Create a password and click execute
+
+Open IIS as an Admin
+
+- Click on start, type IIS and right click on Internet Information Services and click run as administrator
+
+Register PHP from within IIS
+
+- Open PHP Manager
+- Select Register New PHP Version
+- Navigate and open PHP folder on C: drive and select php-cgi
+- Click open, then ok
+- Navigate to Home section of IIS and click restart button on upper right side of window. 
+
+
+
+Install osTicket v1.15.8
 
 <br />
 
