@@ -44,9 +44,9 @@ Install / Enable IIS in Windows.
 
    <img src="https://i.imgur.com/PQUv2aK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Download and Install PHP Manager
+Download and Install PHP Manager from installation folder (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
-Download and Install Rewrite Module
+Download and Install Rewrite Module from installation folder
 <br />
 
 
