@@ -57,8 +57,10 @@ Create directory for C:\PHP on local hard drive
 
  <img src="https://i.imgur.com/trekTA3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
- Download and install PHP 7.3.8 from installation folder
+ Download PHP 7.3.8 from installation folder
  (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+
+ - Extract all contents into PHP folder on C: drive
 
 
  Download and install VC_redist.x86.exe from installation folder
