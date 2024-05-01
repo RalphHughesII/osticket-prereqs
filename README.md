@@ -55,7 +55,7 @@ Create directory for C:\PHP on local hard drive
 - Navigate to C: drive, right click,select new and folder
 - Name new folder - PHP
 
- <img src="https://i.imgur.com/PQUv2aK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/trekTA3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <br />
