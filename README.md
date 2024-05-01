@@ -34,15 +34,15 @@ To begin this tutorial create a virtual machine in Microsoft Azure.
 - Create a Resource Group
  - Create a Windows 10 Virtual Machine using at least 2 virtual CPUs
  - Log into to the VM using windows remote desktop
-<p>
-<img src=https://i.imgur.com/yJGeySn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ium dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
+Install / Enable IIS in Windows.
 <p>
+ - Right click the start menu
+ - Click run and type control
+ - Click Programs and select turn windows features on or off under Programs and Features
+ - Scroll down to Internet Information Services
+ - locate and expand World Wide Web Services, expand Application Development Features and select CGI features
+ 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
