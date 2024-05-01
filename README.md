@@ -42,7 +42,7 @@ Install / Enable IIS in Windows.
 
  - Collapse this window and expand common HTTP Features.  Make sure everything is checked inside and click ok.
 
-   <img src="https://i.imgur.com/PQUv2aK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/PQUv2aK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Download and Install PHP Manager from installation folder (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
@@ -51,6 +51,11 @@ Download and Install Rewrite Module from installation folder
 (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 Create directory for C:\PHP on local hard drive
+
+- Navigate to C: drive, right click,select new and folder
+- Name new folder - PHP
+
+ <img src="https://i.imgur.com/PQUv2aK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <br />
