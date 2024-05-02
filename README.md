@@ -130,7 +130,7 @@ Rename: ost-config.php
 - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 - To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/b4tHzh0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
   
