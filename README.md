@@ -142,7 +142,17 @@ Assign Permissions: ost-config.php
 Setup osTicket in the browser (click Continue)
 
  - Rename to Helpdesk
- - Default email (receives email from customers)
+ - Input Default email
+ - create a username and password
+
+   Download and install HeidiSQL
+
+   - Open Heidi SQL
+   - Create a new session, root/Password1
+   - Connect to the session
+   - Create a database called “osTicket”
+
+   
 
 
 
