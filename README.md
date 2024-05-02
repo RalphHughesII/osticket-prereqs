@@ -145,12 +145,12 @@ Setup osTicket in the browser (click Continue)
  - Input Default email
  - create a username and password
 
-   Download and install HeidiSQL
+Download and install HeidiSQL
 
-   - Open Heidi SQL
-   - Create a new session, root/Password1
-   - Connect to the session
-   - Create a database called “osTicket”
+  - Open Heidi SQL
+  - Create a new session, root/Password1
+  - Connect to the session
+  - Create a database called “osTicket”
 
    
 
