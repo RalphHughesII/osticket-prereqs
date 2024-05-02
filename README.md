@@ -95,7 +95,7 @@ Install osTicket v1.15.8
   (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 - Extract and copy upload folder to c:\inetpub/wwwroot
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9fZ6ZiM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
