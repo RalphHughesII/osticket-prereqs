@@ -148,10 +148,14 @@ Setup osTicket in the browser (click Continue)
 Download and install HeidiSQL
 
   - Open Heidi SQL
-  - Create a new session, root/Password1
+  - Create a new session, input password used to setup mySQl server
   - Connect to the session
   - Create a database called “osTicket”
+  - input your username, mySQL password and osTicket in MySQL Database
+  - Click Install now
 
+
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
    
 
 
