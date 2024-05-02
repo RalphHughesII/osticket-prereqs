@@ -156,6 +156,13 @@ Download and install HeidiSQL
 
 
 <img src="https://i.imgur.com/TmPuEhW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Congratulations, osTicket is successfully installed.  This ticketing system login page is: http://localhost/osTicket/scp/login.php 
+
+Clean up
+- Delete: C:\inetpub\wwwroot\osTicket\setup
+- Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
    
 
 
