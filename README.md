@@ -44,10 +44,11 @@ Install / Enable IIS in Windows.
 
  <img src="https://i.imgur.com/PQUv2aK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Download and Install PHP Manager from installation folder (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+Download and Install PHP Manager from the installation folder 
+(https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 
-Download and Install Rewrite Module from installation folder
+Download and Install Rewrite Module from the installation folder
 (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 Create directory for C:\PHP on local hard drive
@@ -57,17 +58,17 @@ Create directory for C:\PHP on local hard drive
 
  <img src="https://i.imgur.com/trekTA3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
- Download PHP 7.3.8 from installation folder
+ Download PHP 7.3.8 from the installation folder
  (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
  - Extract all contents into PHP folder on C: drive
 
 
- Download and install VC_redist.x86.exe from installation folder
+ Download and install VC_redist.x86.exe from the installation folder
  (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 
-Download and install MySQL 5.5.62 from installation folder
+Download and install MySQL 5.5.62 from the installation folder
 (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
 - Select typical installation 
@@ -89,6 +90,12 @@ Register PHP from within IIS
 
 
 Install osTicket v1.15.8
+
+- Download and install osTicket from the installation folder
+  (https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+- Extract and copy upload folder to c:\inetpub/wwwroot
+<img src="https://imgur.com/a/dYjFsYw" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
 
 <br />
 
