@@ -120,9 +120,10 @@ Navigate to sites, Default, osTicket
          - Enable: php_imap.dll
          - Enable: php_intl.dll
          - Enable: php_opcache.dll
-    - Refresh osTicket
 
-  <img src="https://i.imgur.com/zQVJjIA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- Refresh osTicket
+
+  <img src="https://imgur.com/a/rphYfcb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
