@@ -139,6 +139,12 @@ Assign Permissions: ost-config.php
 
 <img src="https://i.imgur.com/a8F2g8f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Setup osTicket in the browser (click Continue)
+
+ - Rename to Helpdesk
+ - Default email (receives email from customers)
+
+
 
 
   
