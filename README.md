@@ -162,7 +162,7 @@ Congratulations, osTicket is successfully installed.  This ticketing system logi
 Clean up
 - Delete: C:\inetpub\wwwroot\osTicket\setup
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ElymPpE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 - Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
