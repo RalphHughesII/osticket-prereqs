@@ -132,6 +132,14 @@ Rename: ost-config.php
 
 <img src="https://i.imgur.com/L10JFrG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Assign Permissions: ost-config.php
+
+- Disable inheritance -> Remove All
+- New Permissions -> Everyone -> All
+
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 
   
 <p>
