@@ -118,9 +118,9 @@ Navigate to sites, Default, osTicket
   - Open PHP Manager
   - Click Enable or disable an extension
 
-         - Enable: php_imap.dll
-         - Enable: php_intl.dll
-         - Enable: php_opcache.dll
+     - Enable: php_imap.dll
+     - Enable: php_intl.dll
+     - Enable: php_opcache.dll
 
 - Refresh osTicket
 
